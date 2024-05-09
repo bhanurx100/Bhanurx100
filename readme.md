@@ -21,7 +21,6 @@
 
 <!-- Intro  -->
 <h2 align="center">
-
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://bhanurx100.com">bhanurx100</a></b>
         </samp>
@@ -31,8 +30,8 @@
 <p align="center"> 
   <samp>
    <h4>
-               <b>I am aspiring full stack developer from India</b>
-    </h4>
+             <b>I am aspiring full stack developer from India</b>
+    
   </samp>
 </p>
 
