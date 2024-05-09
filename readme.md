@@ -93,9 +93,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/bhanurx100">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-  </a>
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=bhanurx100)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
