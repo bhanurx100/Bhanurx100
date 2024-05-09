@@ -47,7 +47,8 @@
  <a href="https://twitter.com/Bhanu_rx100" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
-  <a href="https://leetcode.com/Bhanucode/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
+  <a href="https://leetcode.com/Bhanucode/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" /> </a>
 
 </p>
 <br />
