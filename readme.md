@@ -20,18 +20,19 @@
 
 
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
+
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://bhanurx100.com">bhanurx100</a></b>
         </samp>
-</h3>
+</h2>
 
 
 <p align="center"> 
   <samp>
-   <h2>
-    <b>I am aspiring full stack developer from India</b>
-    </h2>
+   <h4>
+               <b>I am aspiring full stack developer from India</b>
+    </h4>
   </samp>
 </p>
 
