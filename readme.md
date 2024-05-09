@@ -23,14 +23,14 @@
 <h2 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://bhanurx100.com">bhanurx100</a></b>
+                <br>
+                <b>I am aspiring full stack developer from India</b>
         </samp>
 </h2>
 
 
 <h4 align="center"> 
-           <samp>             <b>I am aspiring full stack developer from India</b>
-    
-  </samp>
+           
 </h4>
 
 <p align="center">
