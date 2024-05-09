@@ -37,9 +37,7 @@
 </p>
 
 <p align="center">
- <a href="https://bhanurx100.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="bhanurx100" />
- </a>
+ 
  <a href="https://linkedin.com/in/bhanurx100" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bhanurx100"/>
  </a>
@@ -49,9 +47,7 @@
  <a href="https://twitter.com/Bhanu_rx100" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
-  <a href="https://leetcode.com/Bhanucode/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
-  </a>
+  <a href="https://leetcode.com/Bhanucode/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
 
 </p>
 <br />
@@ -73,7 +69,7 @@
 <br/>
 
 ## Use To Code
-
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
