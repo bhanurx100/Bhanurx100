@@ -93,24 +93,22 @@
 <br/>
 
 <p align="center">
-      [![GitHub Streak](https://streak-stats.demolab.com/?user=bhanurx100)](https://git.io/streak-stats)
-</p>
-
-<p align="center">
   <a href="https://github.com/bhanurx100">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanurx100&theme=radical" alt="bhanurx100 GitHub Contribution"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanurx100&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bhanurx100">
-    <img alt="bhanurx100's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bhanurx100&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
-  <a href="https://github.com/bhanurx100">
-    <img alt="bhanurx100's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bhanurx100&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanurx100&theme=radical" alt="bhanurx100's GitHub Contribution"/>
   </a>
 </p>
 
+<a> 
+    <a href="https://github.com/bhanurx100"><img alt="bhanurx100's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bhanurx100&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/bhanurx100"><img alt="bhanurx100's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bhanurx100&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 
 ![bhanurx100's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanurx100&custom_title=bhanurx100%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
