@@ -27,13 +27,11 @@
 </h2>
 
 
-<p align="center"> 
-  <samp>
-   <h4>
-             <b>I am aspiring full stack developer from India</b>
+<h4 align="center"> 
+           <samp>             <b>I am aspiring full stack developer from India</b>
     
   </samp>
-</p>
+</h4>
 
 <p align="center">
  
