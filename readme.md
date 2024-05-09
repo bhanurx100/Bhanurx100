@@ -17,7 +17,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
 
 <!-- Intro  -->
 <h3 align="center">
@@ -30,7 +30,7 @@
 <p align="center"> 
   <samp>
    
-    「 I am a full stack web application developer from <b>India</b> 」
+    「 I am aspiring full stack developer from <b>India</b> 」
     <br>
     <br>
   </samp>
@@ -49,9 +49,9 @@
  <a href="https://twitter.com/Bhanu_rx100" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
-<a href="https://leetcode.com/Bhanucode/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
- </a>
+  <a href="https://leetcode.com/Bhanucode/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
+  </a>
 
 </p>
 <br />
@@ -64,8 +64,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: bhanurx100.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/bhanurx100/bhanurx100/issues)
+ 💬 &emsp; My resume:"https://drive.google.com/file/d/1IDiJNsqeCUarkKkpcnh6iaRJR_S8RN9U/view?usp=sharing"
 
 </p>
 
@@ -91,11 +90,7 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=bhanurx100&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bhanurx100/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=bhanurx100&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bhanurx100/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=bhanurx100&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bhanurx100/web-projects)
-[![bhanurx100 Readme](https://github-readme-stats.vercel.app/api/pin/?username=bhanurx100&repo=bhanurx100&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bhanurx100/bhanurx100)
+
 
 <p align="left">
   <a href="https://github.com/bhanurx100?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -124,4 +119,4 @@
 </a>
 
 
-![bhanurx100's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanurx100&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![bhanurx100's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanurx100&custom_title=bhanurx100%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
