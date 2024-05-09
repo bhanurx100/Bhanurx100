@@ -61,7 +61,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 💬 &emsp; My resume:"https://drive.google.com/file/d/1IDiJNsqeCUarkKkpcnh6iaRJR_S8RN9U/view?usp=sharing"
+ 💬 &emsp; My resume:"Resume"
+ <img src="https://drive.google.com/file/d/1IDiJNsqeCUarkKkpcnh6iaRJR_S8RN9U/view?usp=sharing" /> </a>
 
 </p>
 
